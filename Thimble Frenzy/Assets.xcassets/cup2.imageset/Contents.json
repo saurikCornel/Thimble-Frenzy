@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "стакн с тенью.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
